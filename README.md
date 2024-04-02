@@ -3,6 +3,8 @@
 A new Flutter project which I built to learn a few basic concepts in Flutter & dart. The app consists of two screens. We move from first screen to second screen where we can press on a button to update the count of the textbox. 
 
 ## Screenshots - 
+<img src="Screenshots/Screenshot_1712086224.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_1712086232.png" height = "400" width="200">
+
 
 ## This project helped me in understadning the following concepts of - 
 
